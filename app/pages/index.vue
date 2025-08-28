@@ -8,7 +8,7 @@
       <div>
         <div>
           <h1 class="text-4xl font-bold tracking-tight sm:text-center sm:text-6xl text-[#a30000]">
-            Pamirian tradition
+            Pamirian tradition.
           </h1>
           <p class="mt-6 text-lg leading-8 text-gray-600 sm:text-center dark:text-gray-200">
             The Pamir Mountains, located mainly in Tajikistan, are home to unique and ancient cultural traditions.Family and community play a central role in Pamiri tradition. Hospitality is a sacred duty, and guests are treated with great honor.
